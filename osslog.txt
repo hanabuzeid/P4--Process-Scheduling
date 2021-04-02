@@ -1,0 +1,4 @@
+Hey, you made it! Here's a quick stat report: 
+Average block time of the processes 0 nanosecodns
+Average cpu time: 0 nanoseconds
+Average wait of the processes 0 nanoseconds
